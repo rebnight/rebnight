@@ -1,16 +1,13 @@
-### Hi there 👋
+### ᴡʜᴏ ɪ ᴀᴍ? [👁️]
 
-<!--
-**rebnight/rebnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ɪ ᴀᴍ sɪᴍᴘʟᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ. ᴍʏ ғᴀᴠᴏʀɪᴛᴇ<br>ʟᴀɴɢᴜᴀɢᴇs, ɪ ᴄᴏᴅᴇ: ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀ,<br>ᴊᴀᴠᴀ sᴄʀɪᴘᴛ, ʜᴛᴍʟ, ᴄss, ʀᴜʙʏ. ɪ ʟɪᴋᴇ<br>ᴛᴇᴀᴍ ᴡᴏʀᴋ ᴀɴᴅ ᴄʀᴇᴀᴛᴇ sᴏᴍᴇ ᴘʀᴏᴊᴇᴄᴛs.
 
-Here are some ideas to get you started:
+### sᴏᴄɪᴀʟ ɴᴇᴛᴡᴏʀᴋs: [✨]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ʏᴏᴜᴛᴜʙᴇ: <a href="https://youtube.com/@rebnight">@rebnight</a><br>
+ɢɪᴛʜᴜʙ: <a href="https://github.com/rebnight">@rebnight</a><br>
+ᴅɪsᴄᴏʀᴅ: @rebnight
+
+### ᴘʀᴏᴊᴇᴄᴛs: [🎉]
+
+ɪ ᴅᴏɴᴛ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏᴊᴇᴄᴛs ʏᴇᴛ. ʙᴜᴛ<br>ɪ ᴀᴄᴛᴜᴀʟʟʏ ᴡᴏʀᴋs ᴏɴ ᴍɪɴᴇᴄʀᴀғᴛ<br>ᴘʀᴏᴊᴇᴄᴛ: <a href="https://github.com/minefabric/">ᴍɪɴᴇғᴀʙʀɪᴄ</a>! ʏᴏᴜ ᴄᴀɴ ʜᴇʟᴘ<br>ᴍᴇ, ᴄᴏɴᴛʀɪʙᴜᴛᴇ ᴏʀ sᴘᴇᴄᴛᴀᴛᴇ ᴏɴ<br>ᴘʀᴏɢʀᴇss.
